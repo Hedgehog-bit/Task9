@@ -1,0 +1,9 @@
+C:\Users\egora\Desktop\WF9\bin\Debug\WF9.exe.config
+C:\Users\egora\Desktop\WF9\bin\Debug\WF9.exe
+C:\Users\egora\Desktop\WF9\bin\Debug\WF9.pdb
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.Form1.resources
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.Properties.Resources.resources
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.csproj.GenerateResource.cache
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.exe
+C:\Users\egora\Desktop\WF9\obj\Debug\WF9.pdb
