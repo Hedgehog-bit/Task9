@@ -1,0 +1,6 @@
+C:\Users\egora\Desktop\Консоль9\bin\Debug\Консоль9.exe.config
+C:\Users\egora\Desktop\Консоль9\bin\Debug\Консоль9.exe
+C:\Users\egora\Desktop\Консоль9\bin\Debug\Консоль9.pdb
+C:\Users\egora\Desktop\Консоль9\obj\Debug\Консоль9.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Консоль9\obj\Debug\Консоль9.exe
+C:\Users\egora\Desktop\Консоль9\obj\Debug\Консоль9.pdb
